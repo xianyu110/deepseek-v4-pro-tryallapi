@@ -1,0 +1,5 @@
+title: "DeepSeek V4 Pro API 调用教程（TryAllAPI）"
+description: "How to call deepseek-v4-pro via TryAllAPI — OpenAI-compatible chat/completions tutorial. 模型广场选型、价格表、接入笔记。"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
